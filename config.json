@@ -33,7 +33,13 @@
   },
   "timeZone": "Asia/Dhaka",
   "credentials": {
-    "gmailAccount": null,
+    "gmailAccount": {
+      "email": "",
+      "clientId": "",
+      "clientSecret": "",
+      "refreshToken": "",
+      "apiKey": ""
+    },
     "gRecaptcha": {
       "siteKey": "",
       "secretKey": ""
